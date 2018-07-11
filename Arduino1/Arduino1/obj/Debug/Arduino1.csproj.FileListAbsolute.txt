@@ -1,0 +1,12 @@
+C:\Users\dell\source\repos\Arduino1\Arduino1\bin\Debug\Arduino1.exe.config
+C:\Users\dell\source\repos\Arduino1\Arduino1\bin\Debug\Arduino1.exe
+C:\Users\dell\source\repos\Arduino1\Arduino1\bin\Debug\Arduino1.pdb
+C:\Users\dell\source\repos\Arduino1\Arduino1\obj\Debug\Arduino1.csprojResolveAssemblyReference.cache
+C:\Users\dell\source\repos\Arduino1\Arduino1\obj\Debug\Arduino1.Form1.resources
+C:\Users\dell\source\repos\Arduino1\Arduino1\obj\Debug\Arduino1.Properties.Resources.resources
+C:\Users\dell\source\repos\Arduino1\Arduino1\obj\Debug\Arduino1.csproj.GenerateResource.cache
+C:\Users\dell\source\repos\Arduino1\Arduino1\obj\Debug\Arduino1.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\Arduino1\Arduino1\obj\Debug\Arduino1.exe
+C:\Users\dell\source\repos\Arduino1\Arduino1\obj\Debug\Arduino1.pdb
+C:\Users\dell\source\repos\Arduino1\Arduino1\obj\Debug\Arduino1.Form2.resources
+C:\Users\dell\source\repos\Arduino1\Arduino1\obj\Debug\Arduino1.Practica.resources
